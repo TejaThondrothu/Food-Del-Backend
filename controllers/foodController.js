@@ -5,7 +5,7 @@ import fs from 'fs'  //file System inbuilt in node.js
 
 
 
-// add food item
+// add food item 
 
 const addFood = async (req,res) =>{
 
